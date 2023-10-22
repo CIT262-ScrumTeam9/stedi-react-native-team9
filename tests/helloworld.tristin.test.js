@@ -1,4 +1,4 @@
-import {sayHello, sayName} from '../utils/helloworld.tristin.js';
+import {sayHello, sayName} from '../utils/hello.tristin.js';
 import assert from "assert";
 
 //Manual testing
