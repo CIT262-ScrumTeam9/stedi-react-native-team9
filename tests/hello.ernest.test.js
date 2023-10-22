@@ -1,4 +1,4 @@
-import {sayHello, sayName} from '../utils/helloworld.ernest.js';
+import {sayHello, sayName} from '../utils/hello.ernest.js';
 import assert from "assert";
 
 //Manual testing
