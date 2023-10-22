@@ -11,9 +11,9 @@ import assert from "assert";
 
 // Automated Unit Tests
 
-it('should say Tristin', () => {
+it('should say Pius', () => {
     const myName = sayName();
     console.log(myName);
-    expect(myName).toBe('Tristin');
+    expect(myName).toBe('Pius');
 
 });

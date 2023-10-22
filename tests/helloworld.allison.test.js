@@ -1,4 +1,4 @@
-import {sayHello, sayName} from '../utils/hello.tristin.js';
+import {sayHello, sayName} from '../utils/hello.allison.js';
 import assert from "assert";
 
 //Manual testing
@@ -11,9 +11,9 @@ import assert from "assert";
 
 // Automated Unit Tests
 
-it('should say Tristin', () => {
+it('should say Allison', () => {
     const myName = sayName();
     console.log(myName);
-    expect(myName).toBe('Tristin');
+    expect(myName).toBe('Allison');
 
 });
