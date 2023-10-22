@@ -1,4 +1,4 @@
-import {sayHello, sayName} from '../utils/helloworld.monigan.js';
+import {sayHello, sayName} from '../utils/hello.monigan.js';
 import assert from "assert";
 
 //Manual testing
