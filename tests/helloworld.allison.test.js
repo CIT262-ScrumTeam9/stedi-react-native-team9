@@ -1,4 +1,4 @@
-import {sayHello, sayName} from '../utils/helloworld.allison.js';
+import {sayHello, sayName} from '../utils/hello.allison.js';
 import assert from "assert";
 
 //Manual testing
